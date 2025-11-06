@@ -65,7 +65,7 @@ const Navbar = () => {
   ];
 
   return (
-    <nav className="fixed w-full bg-white/80  py-3 px-4 flex justify-between items-center">
+    <nav className="fixed w-full bg-white/80  py-3 px-4 flex justify-between items-center z-50">
       
       {/* logo */}
       <div className="logo">
@@ -128,8 +128,8 @@ const Navbar = () => {
       {/* mobile menu icon */}
       <div
         onClick={() => setIsMenuOpen(!isMenuOpen)}
-        className={`md:hidden z-40 text-2xl ${
-          isMenuOpen && "text-white"
+        className={`md:hidden  text-2xl ${
+          isMenuOpen && "text-white z-40"
         }`}
       >
         {isMenuOpen ? <IoMdClose /> : <MdOutlineMenu />}

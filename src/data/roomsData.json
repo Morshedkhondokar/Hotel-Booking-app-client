@@ -18,6 +18,7 @@
         "image": "/images/standard2.jpg",
         "amenities": ["Free WiFi", "TV", "Air Conditioning", "Balcony"]
       }
+      
     ]
   },
   {
@@ -50,7 +51,7 @@
         "beds": 2,
         "guests": 4,
         "image": "/images/suite1.jpg",
-        "amenities": ["Private Pool", "Ocean View", "Luxury Furniture"]
+        "amenities": ["Private Pool", "Ocean View", "Luxury Feeling"]
       },
       {
         "id": 6,
@@ -58,7 +59,7 @@
         "beds": 3,
         "guests": 5,
         "image": "/images/suite2.jpg",
-        "amenities": ["Private Pool", "Ocean View", "Luxury Furniture", "Breakfast Included"]
+        "amenities": ["Private Pool", "Ocean View", "Luxury Feeling", "Breakfast Included"]
       }
     ]
   }

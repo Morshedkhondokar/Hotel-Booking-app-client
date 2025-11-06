@@ -69,7 +69,8 @@ const Navbar = () => {
       
       {/* logo */}
       <div className="logo">
-        <h1 className="text-2xl font-black text-[#D39F51]">StayDream</h1>
+        <h1 className="text-2xl font-black text-[#D39F51]">StayDream <span className="text-xs text-white font-semibold">House</span></h1>
+        
       </div>
 
       {/* desktop menu */}

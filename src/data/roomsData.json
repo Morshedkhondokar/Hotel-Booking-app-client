@@ -1,0 +1,65 @@
+[
+  {
+    "category": "Standard Room",
+    "rooms": [
+      {
+        "id": 1,
+        "price": 100,
+        "beds": 1,
+        "guests": 2,
+        "image": "/images/standard1.jpg",
+        "amenities": ["Free WiFi", "TV", "Air Conditioning"]
+      },
+      {
+        "id": 2,
+        "price": 120,
+        "beds": 2,
+        "guests": 3,
+        "image": "/images/standard2.jpg",
+        "amenities": ["Free WiFi", "TV", "Air Conditioning", "Balcony"]
+      }
+    ]
+  },
+  {
+    "category": "Deluxe Room",
+    "rooms": [
+      {
+        "id": 3,
+        "price": 180,
+        "beds": 1,
+        "guests": 2,
+        "image": "/images/deluxe1.jpg",
+        "amenities": ["Free WiFi", "Mini Fridge", "Sea View"]
+      },
+      {
+        "id": 4,
+        "price": 200,
+        "beds": 2,
+        "guests": 4,
+        "image": "/images/deluxe2.jpg",
+        "amenities": ["Free WiFi", "Mini Fridge", "Sea View", "Breakfast Included"]
+      }
+    ]
+  },
+  {
+    "category": "Suite Room",
+    "rooms": [
+      {
+        "id": 5,
+        "price": 300,
+        "beds": 2,
+        "guests": 4,
+        "image": "/images/suite1.jpg",
+        "amenities": ["Private Pool", "Ocean View", "Luxury Furniture"]
+      },
+      {
+        "id": 6,
+        "price": 450,
+        "beds": 3,
+        "guests": 5,
+        "image": "/images/suite2.jpg",
+        "amenities": ["Private Pool", "Ocean View", "Luxury Furniture", "Breakfast Included"]
+      }
+    ]
+  }
+]
